@@ -1,4 +1,3 @@
-# RAVEN Social Media — V8 Auth & Stylish Logo
 
 ## Frontend
 ```bash
